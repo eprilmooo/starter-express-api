@@ -29,4 +29,4 @@ function getBeritaById(req, res, next) {
 
 module.exports = {
     getBeritaById, getBerita
-};
+}; 
